@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Efficient Simple Liability Assignment Rules: A Complete Characterization'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,10 +26,11 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: Efficient Simple Liability Assignment Rules: A Complete Characterization
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper we consider a general class of rules called simple liability assignment rules under which the assignment of liabilities for losses arising out of interactions involving negative externalities can be coupled for some combinations of the levels of nonnegligence of the interacting parties and decoupled for other combinations, and explore the possibility of efficient assignment of liabilities in the presence of decoupling. The main result of the pa- per establishes that a simple liability assignment rule is efficient if and only if its structure is such that (i) whenever one party is negligent and the other is not then the negligent party is made to bear the full loss and the nonnegligent party bears none; (ii) whenever both parties are negligent they are made to together bear at least the full loss; and (iii) whenever both parties are nonnegligent they are made to together bear at most the full loss. Thus it follows that the assignment of liabilities under an efficient rule has to be coupled only when one party is negligent and the other is not and hence decoupling liability is not inconsistent with efficiency.
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
