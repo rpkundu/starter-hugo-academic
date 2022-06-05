@@ -4,9 +4,9 @@ role: Professor of Economics
 bio: My research interests include law and economics, social and economic
   networks, applied economic theory.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Law and Economics
+  - Social and Economic Networks
+  - Economic Theory
 social:
   - icon: envelope
     icon_pack: fas
