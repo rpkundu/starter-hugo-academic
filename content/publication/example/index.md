@@ -6,6 +6,7 @@ title: 'Efficient Simple Liability Assignment Rules: A Complete Characterization
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Harshil Kaur
   
 
 # Author notes (optional)
