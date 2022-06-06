@@ -34,7 +34,7 @@ abstract: In this paper we consider a general class of rules called simple liabi
 
 
 # Summary. An optional shortened abstract.
-# summary: In this paper we consider a general class of rules called simple liability assignment rules under which the assignment of liabilities for losses arising out of interactions involving negative externalities can be coupled for some combinations of the levels of nonnegligence of the interacting parties and decoupled for other combinations, and explore the possibility of efficient assignment of liabilities in the presence of decoupling.
+ summary: In this paper we consider a general class of rules called simple liability assignment rules under which the assignment of liabilities for losses arising out of interactions involving negative externalities can be coupled for some combinations of the levels of nonnegligence of the interacting parties and decoupled for other combinations, and explore the possibility of efficient assignment of liabilities in the presence of decoupling.
 
 tags: []
 
@@ -57,10 +57,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
